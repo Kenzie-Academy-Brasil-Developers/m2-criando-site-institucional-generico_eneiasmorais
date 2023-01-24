@@ -72,8 +72,9 @@ header > p{
 
 #main__header__1 > h2{
     width: 50%;
-    text-align: center;
+    text-align: left;
     font-weight: 600;
+    padding-left: 6rem;
 
 }
 
