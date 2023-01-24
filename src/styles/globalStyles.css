@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+:root {
+    --line-height-default: 150%;
+    --color-grey-50: #0A0C0D;
+    --color-grey-100: #191C1F;
+    --color-grey-200: #212529;
+    --color-grey-300: #343A40;
+    --color-grey-400: #495057;
+    --color-grey-500: #868E96;
+    --color-grey-600: #ADB5BD;
+    --color-grey-700: #CED4DA;
+    --color-grey-800: #DEE2E6;
+    --color-grey-900: #EDF2FF;
+    --color-grey-1000: #F8F9FA;
+    --brand-0: rgba(76, 110, 245, 1);
+    --font-size-0: 16px;
+    --font-size-1: 14px;
+    --font-size-2: 12px;
+    --font-size-3: 10px;
+    --radius-default: 3px;
+}
+
+body{
+    font-family: 'Inter', sans-serif;
+    color: var(--color-grey-700);
+    line-height: var(--line-height-default);
+    margin: 0;
+}
